@@ -1,0 +1,7 @@
+
+User-agent:
+Disallow: 
+
+Allow: /
+
+Sitemap: http://https://haytham1996.github.io/Haytham-Ben-Mansour//sitemap.xml
